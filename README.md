@@ -1,8 +1,8 @@
 <a href='https://www.daytum.io/'><img src="https://github.com/daytum/logos/blob/master/daytum_logo_2019.png?raw=true" alt="Daytum" style="width: 250px;"/></a>
 
-# 2-Day Spatial Data Analytics and Geostatistics Course 
+# 3-Day Subsurface Maching Learning, Spatial Data Analytics, and Geostatistics Course 
 
-This repository contains files related to a training class dated 05/19/2025.
+This repository contains files related to a training class dated 12/08/2025.
 
 Instructor: Michael Pyrcz, The University of Texas at Austin
 
