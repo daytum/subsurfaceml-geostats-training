@@ -1,0 +1,44 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
+{
+  "name": "Anaconda (Python 3)",
+  "image": "ghcr.io/daytum/devcontainer/devcontainer:latest",
+  "extensions": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "mathematic.vscode-pdf",
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "/opt/conda/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.kernels.excludePythonEnvironments": [
+      "/usr/bin/python3",
+      "/bin/python3"
+    ]
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.startupEditor": "none",
+        "markdown.preview.openPreview": true,
+        "[markdown]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode",
+          "editor.quickSuggestions": true
+        }
+      }
+    }
+  },
+  // "postCreateCommand": '',
+  //"postStartCommand": "code --goto TOC.ipynb",
+  // Features to add to the dev container. More info: https://containers.dev/features.
+  // "features": {},
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  "forwardPorts": [
+    8888
+  ],
+  // Use 'postCreateCommand' to run commands after the container is created.
+  // Configure tool-specific properties.
+  // "customizations": {},
+  // Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+  // "remoteUser": "root"
+}
