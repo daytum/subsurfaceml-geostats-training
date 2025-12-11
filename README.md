@@ -60,6 +60,9 @@ Spatial Data Analytics and Geostatistics 2-day Short Course
 |       | 3:00 PM - 4:00 PM     | Decision Making with Uncertainty       | Present the workflow to make the best decision given an uncertainty model.                     | [Notes](/Pyrcz_UTCourse/16c_Decision_Making.pdf) |  | [Dashboard](/notebooks/Interactive_Decision_Making.ipynb) |
 |       | 4:00 PM - 4:30 PM     | Wrap-up, Review and Q&A                | Conclusion, group discussion and Plus/Delta exercise                                           |  |  | |
 | Day 3   | 09:00–10:30   | Dimensionality Reduction  |   | [Notes](pdfs/Dimensional_Reduction.pdf)  |   |   |
+|   |    | Machine Learning Overview |  |  | [Demo](notebooks/feature.ipynb)  |  |
+|   |    | Feature Selection |  |  | [Demo](notebooks/feature.ipynb)  |  |
+|   |    | Feature Engineering |  |  | [Demo](notebooks/feature.ipynb)  |  |
 |   |    | Multidimensional Scaling |  |  | [Demo](notebooks/PCA.ipynb)  |  |
 |   |    | PCA |  |  | [Demo]()  |  |
 |   | 10:45–12:15   | Clustering & Advanced Clustering                  |                                                                               | [Clustering Workflow Video](https://youtu.be/y1m3TrfNYDI)                                     | [Clustering](notebooks/Clustering.ipynb) • [Advanced Clustering](notebooks/Advanced_Clustering.ipynb) • [Interactive Spectral Clustering](notebooks/Interactive_Spectral_Clustering.ipynb) | [Clustering.pdf](pdfs/Clustering.pdf) • [Clustering_Advanced.pdf](pdfs/Clustering_Advanced.pdf) |
