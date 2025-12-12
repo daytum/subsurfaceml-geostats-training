@@ -42,7 +42,6 @@ Spatial Data Analytics and Geostatistics 1-day Short Course
 | Day | Time | Topic  | Objective | Notes | Demo | Interactive |
 |-|-|-|--|-|-|-|
 | Day 1 | 8:00 AM - 8:30 AM | Course Overview | Walk-through of the course plan, goals, methods and introductions | [Overview](/pdfs/CourseOverview.pdf) | | |
-
 |       | 12:00 PM - 1:00 PM    | Lunch Break                            |                                                                                                |  | | |
 |       | 1:00 PM - 2:00 PM     | Data Analytics                         | Univariate and multivariate statistical methods to support spatial modeling.                   | [Notes](/Pyrcz_UTCourse/08_Bivariate_Correlation.pdf) | [Demo](/notebooks/multivariate_analysis.ipynb) | [Dashboard](https://github.com/daytum/geostats_training/blob/main/notebooks/Interactive_Correlation_Coefficient.ipynb) |
 |       | 2:00 PM - 3:00 PM     | Spatial Continuity Calculation         | Introduce spatial continuity quantification by calculating variograms.                         | [Notes](/Pyrcz_UTCourse/10_Spatial_Calc.pdf) | [Demo](/notebooks/variogram_calculation.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation.ipynb) |
