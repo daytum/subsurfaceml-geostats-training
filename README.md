@@ -40,7 +40,7 @@ You will learn:
 ##### Spatial Data Analytics and Geostatistics 1-day Short Course
 
 | Day | Time | Topic  | Objective | Notes | Demo | Interactive | e-book | Lecture |
-|-|-|-|--|-|-|-|-|
+|-|-|-|--|-|-|-|-|-|
 | Day 1 | 8:00 AM - 8:30 AM     | Course Overview                        | Walk-through of the course plan, goals, methods and introductions            | [Overview](/pdfs/CourseOverview.pdf)         | | | | |
 |       | 8:30 AM - 9:00 AM     | Introduction                           | Data analytics and geostatistics concepts                                    | [Introduction](/pdfs/Introduction.pdf)       | | | [e-book](https://geostatsguy.github.io/GeostatsPyDemos_Book/GeostatsPy_concepts.html) | |
 |       | 9:00 AM - 10:00 AM    | Data Analytics                         | Multivariate statistical methods to support spatial modeling                 | [Notes](/Pyrcz_UTCourse/08_Bivariate_Correlation.pdf) | [Demo](/notebooks/multivariate_analysis.ipynb) | [Dashboard1](/notebooks/Interactive_Correlation_Coefficient.ipynb) [Dashboard2](/notebooks/Interactive_Correlation_Coefficient_Issues.ipynb) |    |  |
