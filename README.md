@@ -42,6 +42,9 @@ You will learn:
 | Day | Time | Topic  | Objective | Notes | Demo | Interactive | e-book |
 |-|-|-|--|-|-|-|-|
 | Day 1 | 8:00 AM - 8:30 AM     | Course Overview                        | Walk-through of the course plan, goals, methods and introductions                              | [Overview](/pdfs/CourseOverview.pdf)         | | | |
+
+
+
 |       | 8:30 AM - 9:00 AM     | Introduction                           | Data analytics, geostatistics and machine learning concepts                                    | [Introduction](/pdfs/Introduction.pdf)     | | | |
 |       | 9:00 AM - 10:00 AM    | Data Analytics                         | Multivariate statistical methods to support spatial modeling                                   | [Notes](/Pyrcz_UTCourse/08_Bivariate_Correlation.pdf) | [Demo](/notebooks/multivariate_analysis.ipynb) | [Dashboard](https://github.com/daytum/geostats_training/blob/main/notebooks/Interactive_Correlation_Coefficient.ipynb) |    |  
 |       | 10:00 AM - 11:00 AM   | Spatial Continuity Calculation         | Measuring spatial continuity with experimental variograms                                      | [Notes](/Pyrcz_UTCourse/10_Spatial_Calc.pdf) | [Demo](/notebooks/variogram_calculation.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation.ipynb) | |
