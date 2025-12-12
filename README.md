@@ -47,6 +47,8 @@ You will learn:
 
 * predictive machine learning 
 
+***
+
 #### Course Schedule
 
 The following tables include the,
