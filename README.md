@@ -57,14 +57,14 @@ You will learn:
 
 ##### Machine Learning 2-day Short Course
 
-| Day | Time | Topic  | Objective | Notes | Demo | Interactive |
-|-|-|-|--|-|-|-|
-| Day 2 | 8:00 AM - 8:30 AM     | Course Overview                        | Review schedule only                                                                           | [Overview](/pdfs/CourseOverview.pdf) | | |
-|       | 8:30 AM - 10:00 AM    | Probability                            | Frequentist and Bayesian probability approaches                                                | [Notes](/Pyrcz_UTCourse/02_Probability.pdf) | | [Dashboard](/notebooks/Interactive_Sivia_Coin_Toss.ipynb) |
-|       | 11:00 AM - 12:00 PM   | Data Preparation                       | Data debiasing methods to correct for sampling bias                                            | [Notes](/Pyrcz_UTCourse/09b_Spatial_Debias.pdf) | [Demo](/notebooks/declustering.ipynb)| [Dashboard](/notebooks/Interactive_Declustering.ipynb) |
-|       |                       |                                        | Introduction to bootstrap for uncertainty modeling                                             | [Notes](/Pyrcz_UTCourse/05_Univariate_Distributions.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) |
-|       | 12:00 noon - 1:00 PM  | Lunch Break                            |   
-|       | 1:00 PM - 2:00 PM     | Feature Imputation                     | Dealing with missing data                                                                      | [Notes](/Pyrcz_UTCourse/05_Univariate_Distributions.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) |
+| Day | Time | Topic  | Objective | Notes | Demo | Interactive | e-book |
+|-|-|-|--|-|-|-|-|
+| Day 2 | 8:00 AM - 8:30 AM     | Course Overview                        | Review schedule only                                                                           | [Overview](/pdfs/CourseOverview.pdf) | | | |
+|       | 8:30 AM - 10:00 AM    | Probability                            | Frequentist and Bayesian probability approaches                                                | [Notes](/Pyrcz_UTCourse/02_Probability.pdf) | | [Dashboard](/notebooks/Interactive_Sivia_Coin_Toss.ipynb) | |
+|       | 11:00 AM - 12:00 PM   | Data Preparation                       | Data debiasing methods to correct for sampling bias                                            | [Notes](/Pyrcz_UTCourse/09b_Spatial_Debias.pdf) | [Demo](/notebooks/declustering.ipynb)| [Dashboard](/notebooks/Interactive_Declustering.ipynb) | | |
+|       |                       |                                        | Introduction to bootstrap for uncertainty modeling                                             | [Notes](/Pyrcz_UTCourse/05_Univariate_Distributions.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) | |
+|       | 12:00 noon - 1:00 PM  | Lunch Break                            | | | | | |
+|       | 1:00 PM - 2:00 PM     | Feature Imputation                     | Dealing with missing data                                                                      | [Notes](/Pyrcz_UTCourse/05_Univariate_Distributions.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) | |
 
 
 
