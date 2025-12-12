@@ -78,7 +78,7 @@ You will learn:
 |       | 1:00 PM - 2:00 PM     | Bagging and Random Forest              | Averaging over trees to reduce model variance                                | [Notes](/Pyrcz_UTCourse/15_EnsembleTree.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
 |       | 2:00 PM - 3:00 PM     | Gradient Boosting                      | Additive weak learners to avoid overfit                                      | [Notes](/Pyrcz_UTCourse/15b_Gradient_Boosting.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
 |       | 3:00 PM - 4:00 PM     | Neural Networks                        | Powerful deep learning methods                                               | [Notes](/Pyrcz_UTCourse/17_Neural_Networks.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
-|       | 4:00 PM - 4:30 PM     | Conclusions and Wrap-up                | Summarize and discuss                                                        | [Notes](/Pyrcz_UTCourse/17_Neural_Networks.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
+|       | 4:00 PM - 4:30 PM     | Conclusions and Wrap-up                | Summarize and discuss                                                        | [Notes](/Pyrcz_UTCourse/19_DrPyrczSecrets.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
 
 This is a nominal schedule. Note, we are learning and not schedule-driven; therefore the course delivery will adjust for the needs of the class. 
 
