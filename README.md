@@ -37,26 +37,27 @@ You will learn:
 
 #### Course Schedule
 
-Spatial Data Analytics and Geostatistics 1-day Short Course
+##### Spatial Data Analytics and Geostatistics 1-day Short Course
 
 | Day | Time | Topic  | Objective | Notes | Demo | Interactive |
 |-|-|-|--|-|-|-|
 | Day 1 | 8:00 AM - 8:30 AM     | Course Overview                        | Walk-through of the course plan, goals, methods and introductions                              | [Overview](/pdfs/CourseOverview.pdf)         | | |
-|       | 8:30 AM - 9:00 AM     | Introduction                           | Data Analytics, Geostatistics and Machine Learning Concepts                                    | [Introduction](/pdfs/Introduction.pdf)     | | |
-|       | 9:00 AM - 10:00 AM    | Data Analytics                         | Univariate and multivariate statistical methods to support spatial modeling.                   | [Notes](/Pyrcz_UTCourse/08_Bivariate_Correlation.pdf) | [Demo](/notebooks/multivariate_analysis.ipynb) | [Dashboard](https://github.com/daytum/geostats_training/blob/main/notebooks/Interactive_Correlation_Coefficient.ipynb) |                                                                                                         |                                      | | |
-|       | 10:00 AM - 11:00 AM   | Spatial Continuity Calculation         | Introduce spatial continuity quantification by calculating variograms.                         | [Notes](/Pyrcz_UTCourse/10_Spatial_Calc.pdf) | [Demo](/notebooks/variogram_calculation.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation.ipynb) |
-|       | 11:00 AM - 12:00 Noon | Spatial Continuity Modeling            | Introduce variogram modeling, omnidirectional, directional and nested structures.              | [Notes](/Pyrcz_UTCourse/11_Spatial_Interpretation_Modeling.pdf) | [Demo](/notebooks/variogram_modeling.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation_Modeling.ipynb) |
+|       | 8:30 AM - 9:00 AM     | Introduction                           | Data analytics, geostatistics and machine learning concepts                                    | [Introduction](/pdfs/Introduction.pdf)     | | |
+|       | 9:00 AM - 10:00 AM    | Data Analytics                         | Multivariate statistical methods to support spatial modeling                                   | [Notes](/Pyrcz_UTCourse/08_Bivariate_Correlation.pdf) | [Demo](/notebooks/multivariate_analysis.ipynb) | [Dashboard](https://github.com/daytum/geostats_training/blob/main/notebooks/Interactive_Correlation_Coefficient.ipynb) |                                                                                                         |                                      | | |
+|       | 10:00 AM - 11:00 AM   | Spatial Continuity Calculation         | Measuring spatial continuity with experimental variograms                                      | [Notes](/Pyrcz_UTCourse/10_Spatial_Calc.pdf) | [Demo](/notebooks/variogram_calculation.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation.ipynb) |
+|       | 11:00 AM - 12:00 Noon | Spatial Continuity Modeling            | Variogram modeling for quantifying spatial continuity                                          | [Notes](/Pyrcz_UTCourse/11_Spatial_Interpretation_Modeling.pdf) | [Demo](/notebooks/variogram_modeling.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation_Modeling.ipynb) |
 |       | 12:00 noon - 1:00 PM  | Lunch Break                            |   
-|       | 1:00 PM - 2:00 PM     | Spatial Estimation                     | Introduce spatial estimators, theory and applications with kriging.                            | [Notes](/Pyrcz_UTCourse/12_Kriging.pdf)  | [Demo](/notebooks/kriging.ipynb) | [Dashboard](/notebooks/Interactive_Simple_Kriging.ipynb) |
-|       | 2:00 PM - 2:30 PM     | Simulation and Uncertainty Modeling    | Cover the approaches to build a comprehensive uncertainty model, how to account for all salient sources of uncertainty? | [Notes](/Pyrcz_UTCourse/13_Simulation.pdf) | [Demo](/notebooks/simulation.ipynb) | [Dashboard](/notebooks/Interactive_Simulation.ipynb) |
-|       | 2:30 PM - 3:00 PM     | Advanced Simulation                    | Cosimulation for bivariate simulation models.                                                  | [Notes](/Pyrcz_UTCourse/16_Cosimulation.pdf)   | | |
-|       |                       |                                        | Indicator simulation.                                                                          | [Notes](/Pyrcz_UTCourse/14_Simulation_Indicator.pdf)  | [Demo](/notebooks/sisim.ipynb) | | 
-|       |                       |                                        | Multiple point and object-based simulation.                                                    | [Notes](/Pyrcz_UTCourse/15_Simulation_Facies.pdf) | | |
-|       | 3:00 PM - 4:00 PM     | Model Checking                         | Cover essential quality assurance methods for spatial, geostatistical models.                  | [Notes](/Pyrcz_UTCourse/16b_Model_Checking.pdf) | [Demo](/notebooks/model_checking.ipynb) | |
-|       | 4:00 PM - 5:00 PM     | Decision Making with Uncertainty       | Present the workflow to make the best decision given an uncertainty model.                     | [Notes](/Pyrcz_UTCourse/16c_Decision_Making.pdf) |  | [Dashboard](/notebooks/Interactive_Decision_Making.ipynb) |
-|       | 4:00 PM - 4:30 PM     | Wrap-up, Review and Q&A                | Conclusion, group discussion and Plus/Delta exercise                                           |  |  | |
+|       | 1:00 PM - 2:00 PM     | Spatial Estimation                     | Introduce spatial estimators, theory and applications with kriging                             | [Notes](/Pyrcz_UTCourse/12_Kriging.pdf)  | [Demo](/notebooks/kriging.ipynb) | [Dashboard](/notebooks/Interactive_Simple_Kriging.ipynb) |
+|       | 2:00 PM - 2:30 PM     | Simulation and Uncertainty Modeling    | Stochastic realizations for uncertainty modeling                                               | [Notes](/Pyrcz_UTCourse/13_Simulation.pdf) | [Demo](/notebooks/simulation.ipynb) | [Dashboard](/notebooks/Interactive_Simulation.ipynb) |
+|       | 2:30 PM - 3:00 PM     | Advanced Simulation (Optional)         | Cosimulation for bivariate simulation models                                                   | [Notes](/Pyrcz_UTCourse/16_Cosimulation.pdf)   | | |
+|       |                       |                                        | Indicator simulation                                                                           | [Notes](/Pyrcz_UTCourse/14_Simulation_Indicator.pdf)  | [Demo](/notebooks/sisim.ipynb) | | 
+|       |                       |                                        | Multiple point and object-based simulation                                                     | [Notes](/Pyrcz_UTCourse/15_Simulation_Facies.pdf) | | |
+|       | 3:00 PM - 4:00 PM     | Model Checking                         | Cover essential quality assurance methods for spatial, geostatistical models                   | [Notes](/Pyrcz_UTCourse/16b_Model_Checking.pdf) | [Demo](/notebooks/model_checking.ipynb) | |
+|       | 4:00 PM - 5:00 PM     | Decision Making with Uncertainty       | Present the workflow to make the best decision given an uncertainty model                      | [Notes](/Pyrcz_UTCourse/16c_Decision_Making.pdf) |  | [Dashboard](/notebooks/Interactive_Decision_Making.ipynb) |
 
-Machine Learning 2-day Short Course
+
+ 
+##### Machine Learning 2-day Short Course
 
 | Day | Time | Topic  | Objective | Notes | Demo | Interactive |
 |-|-|-|--|-|-|-|
