@@ -37,15 +37,12 @@ You will learn:
 
 #### Course Schedule
 
-Spatial Data Analytics and Geostatistics 2-day Short Course
+Spatial Data Analytics and Geostatistics 1-day Short Course
 
 | Day | Time | Topic  | Objective | Notes | Demo | Interactive |
 |-|-|-|--|-|-|-|
 | Day 1 | 8:00 AM - 8:30 AM | Course Overview | Walk-through of the course plan, goals, methods and introductions | [Overview](/pdfs/CourseOverview.pdf) | | |
-| | 8:30 AM - 9:30 AM | Introduction to Spatial Data Analytics and Geostatistics | Introduction to fundamental concepts and terminology, fit-for-purpose modeling and spatial modeling goals. | [Introduction](/pdfs/Introduction.pdf) | | |
-| | 9:30 AM - 11:00 AM | Probability | Both frequentist and Bayesian probability approaches. | [Notes](/Pyrcz_UTCourse/02_Probability.pdf) | | [Dashboard](/notebooks/Interactive_Sivia_Coin_Toss.ipynb) |
-|       | 11:00 AM - 12:00 PM   | Data Preparation                       | Introduction to data debiasing methods to correct for sampling bias. | [Notes](/Pyrcz_UTCourse/09b_Spatial_Debias.pdf) | [Demo](/notebooks/declustering.ipynb)| [Dashboard](/notebooks/Interactive_Declustering.ipynb) |
-|       |   |                       | Introduction to bootstrap for uncertainty modeling. | [Notes](/Pyrcz_UTCourse/05_Univariate_Distributions.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) |
+
 |       | 12:00 PM - 1:00 PM    | Lunch Break                            |                                                                                                |  | | |
 |       | 1:00 PM - 2:00 PM     | Data Analytics                         | Univariate and multivariate statistical methods to support spatial modeling.                   | [Notes](/Pyrcz_UTCourse/08_Bivariate_Correlation.pdf) | [Demo](/notebooks/multivariate_analysis.ipynb) | [Dashboard](https://github.com/daytum/geostats_training/blob/main/notebooks/Interactive_Correlation_Coefficient.ipynb) |
 |       | 2:00 PM - 3:00 PM     | Spatial Continuity Calculation         | Introduce spatial continuity quantification by calculating variograms.                         | [Notes](/Pyrcz_UTCourse/10_Spatial_Calc.pdf) | [Demo](/notebooks/variogram_calculation.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation.ipynb) |
@@ -72,6 +69,18 @@ Spatial Data Analytics and Geostatistics 2-day Short Course
 |    | 10:45–12:15   | Neural Networks for Subsurface Problems           |                                                                               | [Subsurface Neural Networks](https://youtu.be/MWoS-OXRi54) • [Workflow Video](https://youtu.be/rg9eaDAMtTg) | [Neural Networks](notebooks/NeuralNet.ipynb)                                   | [NeuralNetworks.pdf](pdfs/NeuralNetworks.pdf) |
 |    | 13:15–14:30   | Model Interpretation with SHAP                    |                                                                               |                                                                              | [Feature Ranking Shapley](notebooks/Feature_Ranking_Shapley.ipynb)          | [SHAP.pdf](pdfs/SHAP.pdf) |
 |    | 14:45–16:30   | Real-World Applications & Course Wrap-up          |                                                                               | [Pre-Drill Prediction Demo](notebooks/Interactive_PreDrill_Predictions.ipynb) | [Simulation](notebooks/simulation.ipynb) • [Interactive Pre-Drill Prediction](notebooks/Interactive_PreDrill_Predictions.ipynb) | [Introduction.pdf](pdfs/Introduction.pdf) • [Machine_Learning.pdf](pdfs/Machine_Learning.pdf) |
+
+
+
+Machine Learning 2-day Short Course
+
+| Day | Time | Topic  | Objective | Notes | Demo | Interactive |
+|-|-|-|--|-|-|-|
+| Day 1 | 8:00 AM - 8:30 AM | Course Overview | Walk-through of the course plan, goals, methods and introductions | [Overview](/pdfs/CourseOverview.pdf) | | |
+| | 8:30 AM - 9:30 AM | Introduction to Spatial Data Analytics and Geostatistics | Introduction to fundamental concepts and terminology, fit-for-purpose modeling and spatial modeling goals. | [Introduction](/pdfs/Introduction.pdf) | | |
+| | 9:30 AM - 11:00 AM | Probability | Both frequentist and Bayesian probability approaches. | [Notes](/Pyrcz_UTCourse/02_Probability.pdf) | | [Dashboard](/notebooks/Interactive_Sivia_Coin_Toss.ipynb) |
+|       | 11:00 AM - 12:00 PM   | Data Preparation                       | Introduction to data debiasing methods to correct for sampling bias. | [Notes](/Pyrcz_UTCourse/09b_Spatial_Debias.pdf) | [Demo](/notebooks/declustering.ipynb)| [Dashboard](/notebooks/Interactive_Declustering.ipynb) |
+|       |   |                       | Introduction to bootstrap for uncertainty modeling. | [Notes](/Pyrcz_UTCourse/05_Univariate_Distributions.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) |
 
 
 This is a nominal schedule. Note, we are learning and not schedule-driven; therefore the course delivery will adjust for the needs of the class. 
