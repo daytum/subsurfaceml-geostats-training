@@ -5,6 +5,9 @@
 This repository contains files related to a training class dated 12/08/2025.
 
 Instructor: Michael Pyrcz, The University of Texas at Austin
+[DIRECT Consortium](https://github.com/GeostatsGuy/DIRECT) | [daytum](https://www.daytum.io/) | [Twitter](https://x.com/GeostatsGuy) | [YouTube](https://www.youtube.com/@GeostatsGuyLectures) | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1/) | [Webpage](https://michaelpyrcz.com/) | Book | Machine Learning e-Book | Geostatistics e-Book | GoogleScholar
+
+Co-Instructor: John T. Foster, The University of Texas at Austin 
 
 #### Course Summary
 
