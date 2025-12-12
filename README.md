@@ -113,7 +113,7 @@ The following tables include the,
 |       | 4:00 PM - 4:30 PM     | Conclusions and Wrap-up                | Summarize and discuss                                                        | [Notes](/Pyrcz_UTCourse/19_DrPyrczSecrets.pdf) | | | | |
 
 
-#### Beyond the Course
+#### Beyond the Course 
 
 We have the following [daytum](https://www.daytum.io/) short courses ready that we would love share, including core courses,
 
