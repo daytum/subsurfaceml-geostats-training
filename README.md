@@ -6,7 +6,7 @@ This repository contains files related to a training class dated 12/08/2025.
 
 Instructor: Michael Pyrcz, The University of Texas at Austin
 
-[DIRECT Consortium](https://github.com/GeostatsGuy/DIRECT) | [daytum](https://www.daytum.io/) | [Twitter](https://x.com/GeostatsGuy) | [YouTube](https://www.youtube.com/@GeostatsGuyLectures) | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1/) | [Webpage](https://michaelpyrcz.com/) | Book | Machine Learning e-Book | Geostatistics e-Book | GoogleScholar
+[DIRECT Consortium](https://github.com/GeostatsGuy/DIRECT) | [daytum](https://www.daytum.io/) | [Twitter](https://x.com/GeostatsGuy) | [YouTube](https://www.youtube.com/@GeostatsGuyLectures) | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1/) | [Webpage](https://michaelpyrcz.com/) | [Geostats Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [Machine Learning e-Book](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | [Geostatistics e-Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en)
 
 Co-Instructor: John T. Foster, The University of Texas at Austin 
 
