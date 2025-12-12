@@ -57,27 +57,27 @@ You will learn:
 
 ##### Machine Learning 2-day Short Course
 
-| Day | Time | Topic  | Objective | Notes | Demo | Interactive | e-book |
-|-|-|-|--|-|-|-|-|
-| Day 2 | 8:00 AM - 8:30 AM     | Course Overview                        | Review schedule only                                                         | [Overview](/pdfs/CourseOverview.pdf)    | | | |
-|       | 8:30 AM - 10:00 AM    | Probability                            | Frequentist and Bayesian probability approaches                              | [Notes](/Pyrcz_UTCourse/02_Probability.pdf) | | [Dashboard](/notebooks/Interactive_Sivia_Coin_Toss.ipynb) | |
-|       | 11:00 AM - 12:00 PM   | Data Preparation                       | Data debiasing methods to correct for sampling bias                          | [Notes](/Pyrcz_UTCourse/04_DataPrep.pdf) | [Demo](/notebooks/declustering.ipynb)| [Dashboard](/notebooks/Interactive_Declustering.ipynb) | | |
-|       |                       |                                        | Introduction to bootstrap for uncertainty modeling                           | [Notes](/Pyrcz_UTCourse/04_DataPrep.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) | |
-|       | 12:00 noon - 1:00 PM  | Lunch Break                            | | | | | |
-|       | 1:00 PM - 2:00 PM     | Feature Imputation                     | Dealing with missing data                                                    | [Notes](/Pyrcz_UTCourse/05d_Feature_Imputation.pdf) | | | |
-|       | 2:00 PM - 3:00 PM     | Cluster Analysis                       | k-means clustering                                                           | [Notes](/Pyrcz_UTCourse/07_Clustering.pdf) | | | |
-|       | 3:00 PM - 4:00 PM     | Advanced Cluster Analysis              | Density-based and spectral clustering                                        | [Notes](/Pyrcz_UTCourse/07b_Clustering_Advanced.pdf) | | | |
-|       | 4:00 PM - 5:00 PM     | Dimensionality Reduction               | Principal components analysis                                                | [Notes](/Pyrcz_UTCourse/Dimensional_Reduction.pdf) | | | |
-| Day 3 | 8:00 AM - 9:00 AM     | Predictive Machine Learning            | Concepts and workflows for predictive machine learning                       | [Notes](/Pyrcz_UTCourse/06_Machine_Learning.pdf) | | | |
-|       | 9:00 AM - 10:00 AM    | Linear Regression                      | Start with simple linear prediction models                                   | [Notes](/Pyrcz_UTCourse/09_LinearRegression.pdf)
-|       | 9:00 AM - 10:00 AM    | k-Nearest Neighbors                    | Lazy learning with a mapping analogy                                         | [Notes](/Pyrcz_UTCourse/11_kNearestNeighbours.pdf) | [Demo](notebooks/kNearestNeighbour.ipynb) | | |
-|       | 10:00 AM - 11:00 AM   | Naive Bayes                            | Bayesian classification model                                                | [Notes](/Pyrcz_UTCourse/12_NaiveBayesClassifier.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | |
-|       | 11:00 AM - 12:00 noon | Decision Tree                          | Simple model that extends to powerful ensemble methods                       | [Notes](/Pyrcz_UTCourse/14_DecisionTree.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | |
-|       | 12:00 noon - 1:00 PM  | Lunch Break                            | | | | | |
-|       | 1:00 PM - 2:00 PM     | Bagging and Random Forest              | Averaging over trees to reduce model variance                                | [Notes](/Pyrcz_UTCourse/15_EnsembleTree.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | |
-|       | 2:00 PM - 3:00 PM     | Gradient Boosting                      | Additive weak learners to avoid overfit                                      | [Notes](/Pyrcz_UTCourse/15b_Gradient_Boosting.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | |
-|       | 3:00 PM - 4:00 PM     | Neural Networks                        | Powerful deep learning methods                                               | [Notes](/Pyrcz_UTCourse/17_Neural_Networks.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | |
-|       | 4:00 PM - 4:30 PM     | Conclusions and Wrap-up                | Summarize and discuss                                                        | [Notes](/Pyrcz_UTCourse/17_Neural_Networks.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | |
+| Day | Time | Topic  | Objective | Notes | Demo | Interactive | e-book | Lecture |
+|-|-|-|--|-|-|-|-|-|
+| Day 2 | 8:00 AM - 8:30 AM     | Course Overview                        | Review schedule only                                                         | [Overview](/pdfs/CourseOverview.pdf)    | | | | |
+|       | 8:30 AM - 10:00 AM    | Probability                            | Frequentist and Bayesian probability approaches                              | [Notes](/Pyrcz_UTCourse/02_Probability.pdf) | | [Dashboard](/notebooks/Interactive_Sivia_Coin_Toss.ipynb) | | |
+|       | 11:00 AM - 12:00 PM   | Data Preparation                       | Data debiasing methods to correct for sampling bias                          | [Notes](/Pyrcz_UTCourse/04_DataPrep.pdf) | [Demo](/notebooks/declustering.ipynb)| [Dashboard](/notebooks/Interactive_Declustering.ipynb) | | | |
+|       |                       |                                        | Introduction to bootstrap for uncertainty modeling                           | [Notes](/Pyrcz_UTCourse/04_DataPrep.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) | | |
+|       | 12:00 noon - 1:00 PM  | Lunch Break                            | | | | | | |
+|       | 1:00 PM - 2:00 PM     | Feature Imputation                     | Dealing with missing data                                                    | [Notes](/Pyrcz_UTCourse/05d_Feature_Imputation.pdf) | | | | |
+|       | 2:00 PM - 3:00 PM     | Cluster Analysis                       | k-means clustering                                                           | [Notes](/Pyrcz_UTCourse/07_Clustering.pdf) | | | | |
+|       | 3:00 PM - 4:00 PM     | Advanced Cluster Analysis              | Density-based and spectral clustering                                        | [Notes](/Pyrcz_UTCourse/07b_Clustering_Advanced.pdf) | | | | |
+|       | 4:00 PM - 5:00 PM     | Dimensionality Reduction               | Principal components analysis                                                | [Notes](/Pyrcz_UTCourse/Dimensional_Reduction.pdf) | | | | |
+| Day 3 | 8:00 AM - 9:00 AM     | Predictive Machine Learning            | Concepts and workflows for predictive machine learning                       | [Notes](/Pyrcz_UTCourse/06_Machine_Learning.pdf) | | | | |
+|       | 9:00 AM - 10:00 AM    | Linear Regression                      | Start with simple linear prediction models                                   | [Notes](/Pyrcz_UTCourse/09_LinearRegression.pdf) | | | | |
+|       | 9:00 AM - 10:00 AM    | k-Nearest Neighbors                    | Lazy learning with a mapping analogy                                         | [Notes](/Pyrcz_UTCourse/11_kNearestNeighbours.pdf) | [Demo](notebooks/kNearestNeighbour.ipynb) | | | |
+|       | 10:00 AM - 11:00 AM   | Naive Bayes                            | Bayesian classification model                                                | [Notes](/Pyrcz_UTCourse/12_NaiveBayesClassifier.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
+|       | 11:00 AM - 12:00 noon | Decision Tree                          | Simple model that extends to powerful ensemble methods                       | [Notes](/Pyrcz_UTCourse/14_DecisionTree.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
+|       | 12:00 noon - 1:00 PM  | Lunch Break                            | | | | | | |
+|       | 1:00 PM - 2:00 PM     | Bagging and Random Forest              | Averaging over trees to reduce model variance                                | [Notes](/Pyrcz_UTCourse/15_EnsembleTree.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
+|       | 2:00 PM - 3:00 PM     | Gradient Boosting                      | Additive weak learners to avoid overfit                                      | [Notes](/Pyrcz_UTCourse/15b_Gradient_Boosting.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
+|       | 3:00 PM - 4:00 PM     | Neural Networks                        | Powerful deep learning methods                                               | [Notes](/Pyrcz_UTCourse/17_Neural_Networks.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
+|       | 4:00 PM - 4:30 PM     | Conclusions and Wrap-up                | Summarize and discuss                                                        | [Notes](/Pyrcz_UTCourse/17_Neural_Networks.pdf) | [Demo](notebooks/NaiveBayes.ipynb) | | | |
 
 This is a nominal schedule. Note, we are learning and not schedule-driven; therefore the course delivery will adjust for the needs of the class. 
 
