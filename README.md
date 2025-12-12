@@ -53,7 +53,7 @@ You will learn:
 
 The following tables include the,
 
-* **approximate times** - we are learning and not schedule driven, we will adjust the schedule to meet the needs of the class.
+* **approximate times** - the nominal schedule. Note, we are learning and not schedule-driven; therefore the course delivery will adjust for the needs of the class. 
 
 * **topics** - general topic covered. 
 
@@ -112,15 +112,29 @@ The following tables include the,
 |       | 3:00 PM - 4:00 PM     | Neural Networks                        | Powerful deep learning methods                                               | [Notes](/Pyrcz_UTCourse/17_Neural_Networks.pdf) | [Demo](notebooks/NeuralNet.ipynb) | [Dashboard](/notebooks/Interactive_ANN.ipynb) | [Book](https://geostatsguy.github.io/MachineLearningDemos_Book/MachineLearning_ANN.html) | [Lecture](https://www.youtube.com/watch?v=A9PiCMY_6nM&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf&index=42) |
 |       | 4:00 PM - 4:30 PM     | Conclusions and Wrap-up                | Summarize and discuss                                                        | [Notes](/Pyrcz_UTCourse/19_DrPyrczSecrets.pdf) | | | | |
 
-This is a nominal schedule. Note, we are learning and not schedule-driven; therefore the course delivery will adjust for the needs of the class. 
 
 #### Beyond the Course
+
+We have the following [daytum](https://www.daytum.io/) short courses ready that we would love share, including core courses,
+
+1.	Introduction to the Python Ecosystem
+2.	Introduction to Energy Data Science using Python
+3.	Introduction to Subsurface Machine Learning
+4.	Machine Learning for Energy Executives
+5.	Spatial Data Analytics and Geostatistics
+
+And other courses such as,
+
+1.	Pandas for Excel Addicts
+2.	Information and Game Theory
+3.	Advanced Machine Learning
+4.	Custom Courses Designed to Meet the Needs of the Company 
 
 **There is Much More** – the building blocks can be reimplemented and expanded to address various other problems, opportunities. There is much more that we could cover,
 
 * Additional Theory
 
-* More Hands-on / Experiential
+* More Hands-on / Experiential Learning
 
 * Workflow Development
 
@@ -134,7 +148,7 @@ This is a nominal schedule. Note, we are learning and not schedule-driven; there
 
 * Integration of Machine Learning Spatial Modeling
 
-We are happy to discuss other, advanced courses and custom courses to meet your teams' educational needs to add value at work with data science.
+We are happy to discuss other, advanced courses and custom courses to meet your teams' educational needs to add value at work with data science. 
 
 Daytum's courses have been taken by employees at:<br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chevron_Logo.svg/918px-Chevron_Logo.svg.png" style="width: 40px;"/>
