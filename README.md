@@ -2,19 +2,21 @@
 
 # 3-Day Subsurface Maching Learning, Spatial Data Analytics, and Geostatistics Course 
 
+## 1-Day Spatial Data Analytics Course + 2-Day Machine Learning Course
+
 This repository contains files related to a training class dated 12/08/2025.
 
-Instructor: Michael Pyrcz, The University of Texas at Austin
+Instructor: Michael Pyrcz, Professor, The University of Texas at Austin
 
 [DIRECT Consortium](https://github.com/GeostatsGuy/DIRECT) | [daytum](https://www.daytum.io/) | [Twitter](https://x.com/GeostatsGuy) | [YouTube](https://www.youtube.com/@GeostatsGuyLectures) | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1/) | [Webpage](https://michaelpyrcz.com/) | [Geostats Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [Machine Learning e-Book](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) | [Geostatistics e-Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en)
 
-Instructor: John T. Foster, The University of Texas at Austin 
+Instructor: John T. Foster, Professor, The University of Texas at Austin 
 
 [DIRECT Consortium](https://github.com/GeostatsGuy/DIRECT) | [daytum](https://www.daytum.io/) | [Twitter](https://x.com/johntfoster?lang=en) | [YouTube](https://www.youtube.com/c/johntfoster) | [Webpage](https://www.pge.utexas.edu/faculty-and-staff/john-foster/) | [High perforance Computing e-Book](https://johnfoster.pge.utexas.edu/hpc-book/intro.html) | [Introduction to Python e-Book](https://johnfoster.pge.utexas.edu/numerical-methods-book/PythonIntro) | [GoogleScholar](https://scholar.google.com/citations?user=TjdPwewAAAAJ&hl=en)
 
 #### Course Summary
 
-Building from fundamental probability and statistics, we cover entire spatial data analytics and geostatistics best practice workflows from data preparation through to decision making. We will accomplish this with,
+Building from fundamental probability and statistics, we cover entire spatial data analytics, geostatistics and machine learning best practice workflows from data preparation through to decision making. We will accomplish this with,
 
 * Interactive lectures / discussion to cover the basic concepts
 
@@ -41,7 +43,29 @@ You will learn:
 
 * decision making with spatial uncertainty models
 
+* inferential machine learning
+
+* predictive machine learning 
+
 #### Course Schedule
+
+The following tables include the,
+
+* **approximate times** - we are learning and not schedule driven, we will adjust the schedule to meet the needs of the class.
+
+* **topics** - general topic covered. 
+
+* **objectives** - major objective of the session as the new knowledge or skill set.
+
+* **lecture notes** - link to lecture notes in PDF. In some cases I have included notes directly from my UT Austin courses to offer greater coverage.
+
+* **demos** - well-documented workflow demonstrating the theory and best practice from the course notes.
+
+* **interactive** - interactive Python dashboards to demonstrate a concept.
+
+* **e-book** - link to the associated chapter from Dr. Pyrcz's free, online e-books.
+
+* **lecture** - link to the associated recorded lecture from Dr. Pyrcz's YouTube channel.
 
 ##### Spatial Data Analytics and Geostatistics 1-day Short Course
 
@@ -53,7 +77,7 @@ You will learn:
 |       | 10:00 AM - 11:00 AM   | Spatial Continuity Calculation         | Measuring spatial continuity with experimental variograms                    | [Notes](/Pyrcz_UTCourse/10_Spatial_Calc.pdf) | [Demo](/notebooks/variogram_calculation.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation.ipynb) | [Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/GeostatsPy_variogram_calculation.html) | [Lecture](https://www.youtube.com/watch?v=j0I5SGFm00c&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=32) |
 |       | 11:00 AM - 12:00 Noon | Spatial Continuity Modeling            | Variogram modeling for quantifying spatial continuity                        | [Notes](/Pyrcz_UTCourse/11_Spatial_Interpretation_Modeling.pdf) | [Demo](/notebooks/variogram_modeling.ipynb) | [Dashboard](/notebooks/Interactive_Variogram_Calculation_Modeling.ipynb) | [Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/GeostatsPy_variogram_calculation_and_modeling.html) | [Lecture](https://www.youtube.com/watch?v=Li-Xzlu7hvs&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=38) |
 |       | 12:00 noon - 1:00 PM  | Lunch Break                            | | | | | |
-|       | 1:00 PM - 2:00 PM     | Spatial Estimation                     | Introduce spatial estimators, theory and applications with kriging           | [Notes](/Pyrcz_UTCourse/12_Kriging.pdf)  | [Demo](/notebooks/kriging.ipynb) | [Dashboard](/notebooks/Interactive_Simple_Kriging.ipynb) | [Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/GeostatsPy_kriging.html) | [Lecture](https://www.youtube.com/watch?v=BCnivpSKF18&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=41) [Lecture2](https://www.youtube.com/watch?v=CVkmuwF8cJ8&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=42) |
+|       | 1:00 PM - 2:00 PM     | Spatial Estimation                     | Spatial estimators, theory and applications with kriging           | [Notes](/Pyrcz_UTCourse/12_Kriging.pdf)  | [Demo](/notebooks/kriging.ipynb) | [Dashboard](/notebooks/Interactive_Simple_Kriging.ipynb) | [Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/GeostatsPy_kriging.html) | [Lecture](https://www.youtube.com/watch?v=BCnivpSKF18&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=41) [Lecture2](https://www.youtube.com/watch?v=CVkmuwF8cJ8&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=42) |
 |       | 2:00 PM - 2:30 PM     | Simulation and Uncertainty Modeling    | Stochastic realizations for uncertainty modeling                             | [Notes](/Pyrcz_UTCourse/13_Simulation.pdf) | [Demo](/notebooks/simulation.ipynb) | [Dashboard](/notebooks/Interactive_Simulation.ipynb) | [Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/GeostatsPy_simulation.html) | [Lecture](https://www.youtube.com/watch?v=3cLqK3lR56Y&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=45) |
 |       | 2:30 PM - 3:00 PM     | Advanced Simulation (Optional)         | Cosimulation for bivariate simulation models                                 | [Notes](/Pyrcz_UTCourse/16_Cosimulation.pdf) | | | | |
 |       |                       |                                        | Indicator simulation                                                         | [Notes](/Pyrcz_UTCourse/14_Simulation_Indicator.pdf) | [Demo](/notebooks/sisim.ipynb) | | [Book](https://geostatsguy.github.io/GeostatsPyDemos_Book/GeostatsPy_categorical_indicator_simulation.html) | [Lecture](https://www.youtube.com/watch?v=6mCfgbh7f2g&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ&index=46) |
