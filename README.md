@@ -59,7 +59,7 @@ You will learn:
 
 | Day | Time | Topic  | Objective | Notes | Demo | Interactive | e-book | Lecture |
 |-|-|-|--|-|-|-|-|-|
-| Day 2 | 8:00 AM - 8:30 AM     | Course Overview                        | Review schedule only                                                         | [Overview](/pdfs/CourseOverview.pdf)    | | | | |
+| Day 2 | 8:00 AM - 8:30 AM     | Course Overview                        | Review schedule only                                                         | [Overview](/pdfs/CourseOverview_ML.pdf)    | | | | |
 |       | 8:30 AM - 10:00 AM    | Probability                            | Frequentist and Bayesian probability approaches                              | [Notes](/Pyrcz_UTCourse/02_Probability.pdf) | | [Dashboard](/notebooks/Interactive_Sivia_Coin_Toss.ipynb) | | |
 |       | 11:00 AM - 12:00 PM   | Data Preparation                       | Data debiasing methods to correct for sampling bias                          | [Notes](/Pyrcz_UTCourse/04_DataPrep.pdf) | [Demo](/notebooks/declustering.ipynb)| [Dashboard](/notebooks/Interactive_Declustering.ipynb) | | | |
 |       |                       |                                        | Introduction to bootstrap for uncertainty modeling                           | [Notes](/Pyrcz_UTCourse/04_DataPrep.pdf) | [Demo](/notebooks/bootstrap.ipynb) | [Dashboard](/notebooks/Interactive_Bootstrap.ipynb) | | |
