@@ -2,7 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
   "name": "Anaconda (Python 3)",
-  "image": "ghcr.io/daytum/devcontainer/devcontainer:latest",
+  "image": "ghcr.io/daytum/devcontainer/devcontainer:mini",
   "extensions": [
     "ms-python.python",
     "ms-toolsai.jupyter",
